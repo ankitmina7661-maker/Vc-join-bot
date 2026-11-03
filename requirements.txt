@@ -1,4 +1,4 @@
-pyrogram
+kurigram
 tgcrypto
 py-tgcalls>=2.0
 python-dotenv
